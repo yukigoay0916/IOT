@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1079416733302",
+    "firebase_url": "https://iot-assignment-2022-default-rtdb.firebaseio.com",
+    "project_id": "iot-assignment-2022",
+    "storage_bucket": "iot-assignment-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079416733302:android:7bf4cade25e9e92c90e957",
+        "android_client_info": {
+          "package_name": "com.app.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079416733302-64qqrrvq8cujb4fh137784dfpfv5mvfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOH4qBB6rIcnXczPkg4wrIq_MbSICuYEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079416733302-64qqrrvq8cujb4fh137784dfpfv5mvfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079416733302:android:f1a6628fbb9729b890e957",
+        "android_client_info": {
+          "package_name": "com.app.smartdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079416733302-64qqrrvq8cujb4fh137784dfpfv5mvfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOH4qBB6rIcnXczPkg4wrIq_MbSICuYEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079416733302-64qqrrvq8cujb4fh137784dfpfv5mvfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079416733302:android:cd914ad1d4109c9590e957",
+        "android_client_info": {
+          "package_name": "my.example.iotassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079416733302-64qqrrvq8cujb4fh137784dfpfv5mvfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOH4qBB6rIcnXczPkg4wrIq_MbSICuYEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079416733302-64qqrrvq8cujb4fh137784dfpfv5mvfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079416733302:android:c2d77112190c3e2d90e957",
+        "android_client_info": {
+          "package_name": "my.example.testline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079416733302-64qqrrvq8cujb4fh137784dfpfv5mvfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOH4qBB6rIcnXczPkg4wrIq_MbSICuYEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079416733302-64qqrrvq8cujb4fh137784dfpfv5mvfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

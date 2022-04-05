@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.face.DetectPersonActivity">
+
+    <Button
+        android:id="@+id/buttonFriend"
+        android:layout_width="99dp"
+        android:layout_height="98dp"
+        android:text="Friend"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonNeighbour"
+        app:layout_constraintEnd_toStartOf="@+id/buttonNeighbour"
+        app:layout_constraintHorizontal_bias="0.511"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/buttonNeighbour" />
+
+    <Button
+        android:id="@+id/buttonNeighbour"
+        android:layout_width="127dp"
+        android:layout_height="79dp"
+        android:layout_marginTop="84dp"
+        android:layout_marginEnd="60dp"
+        android:text="Neighbour"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnCognate"
+        android:layout_width="118dp"
+        android:layout_height="103dp"
+        android:text="Cognate"
+        app:layout_constraintBottom_toBottomOf="@+id/residency"
+        app:layout_constraintEnd_toStartOf="@+id/residency"
+        app:layout_constraintHorizontal_bias="0.646"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/residency"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/residency"
+        android:layout_width="125dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="144dp"
+        android:layout_marginEnd="60dp"
+        android:text="Residency"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonNeighbour" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="150dp"
+        android:layout_height="98dp"
+        android:layout_marginEnd="120dp"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCognate"
+        app:layout_constraintVertical_bias="0.313" />
+</androidx.constraintlayout.widget.ConstraintLayout>

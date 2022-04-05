@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IOT</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="logout_dialog"> Logout </string>
+    <string name="logout_msg"> Do you want to logout </string>
+    <string name="egg_prompt">How do you like your egg?</string>
+    <string name="msg_token_fmt"> ..</string>
+    <string name="channel_id" translatable="false">hardik-channel</string>
+    <string name="channel_name" translatable="false">hardik</string>
+    <string name="str_firebase_push_notification_demo">Firebase Push Notification Android Example</string>
+
+
+    <string name="app_name1">aaaaa</string>
+</resources>
